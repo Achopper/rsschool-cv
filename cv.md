@@ -10,11 +10,11 @@
 
 ### Skills:
 
--  C
--  C++ 
+- C
+- C++ 
 - SQL
--  Java
--  Git
+- Java
+- Git
 - Docker
 - UNIX
 
@@ -28,10 +28,19 @@ So I decided to change my profession. And I quit my main job and went to school 
 
 ### Projects:
 
--   [Cub3D](https://github.com/Achopper/mini_cube_42) Simle raycasting engine on C
+- [Cub3D](https://github.com/Achopper/mini_cube_42) Simle raycasting engine on C
 - [Minishell](https://github.com/Achopper/minishell) Mini version of bash with redirects and pipes on C
 - [WebServ](https://github.com/Achopper/simple_serv) HTTP request-response server with multiplexed I/O on C++
 - [Containers](https://github.com/Achopper/ft_containers) Recopy of C++ STL library containers (vector, stack, map and set)
+
+---
+### Education 
+
+**Institute of Economics of Finance and Law**
+- Organization Management
+
+**School21/Encole42**
+- Computer science and programming languages
 
 ----------
 
