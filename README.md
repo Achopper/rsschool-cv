@@ -1,1 +1,1 @@
-https://Achopper.github.io/rsschool-cv/
+https://Achopper.github.io/rsschool-cv/cv
